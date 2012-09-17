@@ -19,23 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="home.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="8" selection-start="1304" selection-end="1304" vertical-scroll-proportion="-18.73077">
-              <folding>
-                <marker date="1346438287328" expanded="true" signature="20:61" placeholder="..." />
-                <marker date="1346438287328" expanded="true" signature="87:1210" placeholder="..." />
-                <marker date="1346438287328" expanded="true" signature="117:558" placeholder="..." />
-                <marker date="1346438287328" expanded="true" signature="151:332" placeholder="..." />
-                <marker date="1346438287328" expanded="true" signature="366:547" placeholder="..." />
-                <marker date="1346438287328" expanded="true" signature="587:897" placeholder="..." />
-                <marker date="1346438287328" expanded="true" signature="621:886" placeholder="..." />
-                <marker date="1346438287328" expanded="true" signature="928:1201" placeholder="..." />
-                <marker date="1346438287328" expanded="true" signature="962:1059" placeholder="..." />
-                <marker date="1346438287328" expanded="true" signature="1093:1190" placeholder="..." />
-                <marker date="1346438287328" expanded="true" signature="1233:1303" placeholder="..." />
-              </folding>
+            <state line="14" column="42" selection-start="409" selection-end="535" vertical-scroll-proportion="0.4040747">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -43,16 +31,16 @@
       <file leaf-file-name="static_pages.css.scss.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="26" selection-start="173" selection-end="173" vertical-scroll-proportion="-0.6923077">
+            <state line="26" column="10" selection-start="338" selection-end="338" vertical-scroll-proportion="-17.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="static_pages.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="static_pages.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/static_pages.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.027642276">
+            <state line="10" column="43" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -75,15 +63,15 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/static_pages.js" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss.erb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1292" />
+    <option name="width" value="1296" />
     <option name="height" value="776" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -405,8 +393,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1292" height="776" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -510,19 +498,7 @@
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="20" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1346438287328" expanded="true" signature="20:61" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="87:1210" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="117:558" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="151:332" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="366:547" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="587:897" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="621:886" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="928:1201" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="962:1059" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="1093:1190" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="1233:1303" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -534,19 +510,7 @@
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="41" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1346438287328" expanded="true" signature="20:61" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="87:1210" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="117:558" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="151:332" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="366:547" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="587:897" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="621:886" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="928:1201" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="962:1059" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="1093:1190" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="1233:1303" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -575,35 +539,23 @@
         <state line="12" column="18" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/static_pages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="43" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/static_pages.css.scss.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="26" selection-start="173" selection-end="173" vertical-scroll-proportion="-0.6923077">
+        <state line="26" column="10" selection-start="338" selection-end="338" vertical-scroll-proportion="-17.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="8" selection-start="1304" selection-end="1304" vertical-scroll-proportion="-18.73077">
-          <folding>
-            <marker date="1346438287328" expanded="true" signature="20:61" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="87:1210" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="117:558" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="151:332" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="366:547" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="587:897" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="621:886" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="928:1201" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="962:1059" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="1093:1190" placeholder="..." />
-            <marker date="1346438287328" expanded="true" signature="1233:1303" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/static_pages.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.027642276">
+        <state line="14" column="42" selection-start="409" selection-end="535" vertical-scroll-proportion="0.4040747">
           <folding />
         </state>
       </provider>
